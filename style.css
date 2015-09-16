@@ -1,0 +1,53 @@
+#projects {
+  padding: 5px;
+}
+
+#about {
+  display:inline-block;
+}
+
+img {
+  float: left;
+  box-shadow: -3px 3px  #003399
+}
+
+h1 {
+  text-transform:uppercase;
+  font-weight: bolder;
+  text-align: left;
+  color: gray;
+}
+
+h3 {
+  text-indent: 5px;
+  color: gray;
+  font-family: sans-serif;
+  font-weight:lighter;
+}
+
+
+
+li {
+  list-style-type: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+p {
+  font-family: "Cambria", serif;
+  text-indent: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
